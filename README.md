@@ -5,7 +5,7 @@ After completing my graduation thesis, I dedicated a year to learning front-end 
 
 Now, with three years of professional experience under my belt, I continue to hone my skills and contribute to exciting projects. I'm always eager to learn new technologies and improve my craft.
 
-# Tech Stack
+# ⚡ Tech Stack
 ## **Languages**
 <div>
   <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" />
@@ -39,6 +39,7 @@ Now, with three years of professional experience under my belt, I continue to ho
   <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" alt="nestjs" />
 </div>
 
+# 🔭 Stats
 [![GeraltWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraltWang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GeraltWang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeraltWang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

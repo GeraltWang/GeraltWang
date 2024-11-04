@@ -13,20 +13,29 @@ Now, with three years of professional experience under my belt, I continue to ho
   <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" />
   <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" />
 </div>
+
 #
 
 ## **Frameworks**
 <div>
-  <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue" />
-  <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxtjs" />         
-  <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" />
-  <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" />
-  <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" />
-  <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" />
-  <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" />
+  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue" />
+  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxtjs" />         
+  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" />
+  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" />
+  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" />
+  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" />
+  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" />
 </div>
 
 #
+
+## **Platforms**
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
+  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" />
+  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="vercel" />
+  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" alt="netlify" />
+  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" />
+</div>
 
 <!--
 **GeraltWang/GeraltWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

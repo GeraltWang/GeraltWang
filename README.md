@@ -13,10 +13,10 @@ Now, with three years of professional experience under my belt, I continue to ho
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,vite,react,nextjs,nodejs,tailwind)](https://skillicons.dev)
 
 ## **Platforms**
-[![My Skills](https://skillicons.dev/icons?i=docker,vercel,netlify,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,vercel,netlify,cloudflare,supabase)](https://skillicons.dev)
 
 # 🌱 Currently learning
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,py)](https://skillicons.dev)
 
 # 🔭 Stats
 [![GeraltWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraltWang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

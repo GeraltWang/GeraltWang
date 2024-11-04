@@ -8,10 +8,10 @@ Now, with three years of professional experience under my belt, I continue to ho
 # Tech Stack
 ## **Languages**
 <div>
-  <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" />
-  <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" />
-  <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" />
-  <img width="30px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" />
+  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" />
+  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" />
+  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" />
+  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" />
 </div>
 
 #
@@ -31,10 +31,10 @@ Now, with three years of professional experience under my belt, I continue to ho
 
 ## **Platforms**
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
-  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" />
-  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="vercel" />
-  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" alt="netlify" />
-  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" />
+  <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" />
+  <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="vercel" />
+  <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" alt="netlify" />
+  <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" />
 </div>
 
 <!--

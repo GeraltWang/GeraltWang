@@ -14,8 +14,6 @@ Now, with three years of professional experience under my belt, I continue to ho
   <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" />
 </div>
 
-#
-
 ## **Frameworks**
 <div>
   <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue" />
@@ -27,14 +25,18 @@ Now, with three years of professional experience under my belt, I continue to ho
   <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" />
 </div>
 
-#
-
 ## **Platforms**
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
   <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" />
   <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="vercel" />
   <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" alt="netlify" />
   <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" />
+</div>
+
+# 🌱 Currently learning
+<div>
+  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" />
+  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" alt="nestjs" />
 </div>
 
 <!--

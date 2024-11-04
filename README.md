@@ -39,6 +39,9 @@ Now, with three years of professional experience under my belt, I continue to ho
   <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" alt="nestjs" />
 </div>
 
+[![GeraltWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraltWang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GeraltWang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeraltWang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **GeraltWang/GeraltWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

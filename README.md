@@ -10,15 +10,7 @@ Now, with three years of professional experience under my belt, I continue to ho
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 
 ## **Frameworks**
-<div>
-  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue" />
-  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxtjs" />         
-  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" />
-  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" />
-  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" />
-  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" />
-  <img width="34px" style="padding-right:10px;display:inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,vite,react,nextjs,nodejs,tailwind)](https://skillicons.dev)
 
 ## **Platforms**
 <div style="display:flex;gap:10px;flex-wrap:wrap;">

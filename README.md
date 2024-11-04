@@ -13,18 +13,10 @@ Now, with three years of professional experience under my belt, I continue to ho
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,vite,react,nextjs,nodejs,tailwind)](https://skillicons.dev)
 
 ## **Platforms**
-<div style="display:flex;gap:10px;flex-wrap:wrap;">
-  <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" />
-  <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="vercel" />
-  <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" alt="netlify" />
-  <img width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=docker,vercel,netlify,cloudflare)](https://skillicons.dev)
 
 # 🌱 Currently learning
-<div>
-  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" />
-  <img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" alt="nestjs" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs)](https://skillicons.dev)
 
 # 🔭 Stats
 [![GeraltWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraltWang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
